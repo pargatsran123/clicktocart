@@ -27,9 +27,7 @@ sections:
         style: style3
         title: Dolor
     section_id: one
-    subtitle: >-
-      we are going to provide all A to Z things on our online shop. we are
-      available 24 hours for our service.
+    subtitle: ' we are available 24 hours for our service.Come and shop with a click.'
     title: We are providing all necessary things on just on click.
     type: icons
   - background_style: style2
