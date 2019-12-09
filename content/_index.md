@@ -11,7 +11,10 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: Come To Shop Anything
+  subtitle: |-
+    ![](/images/web.webp)
+
+    Come To Shop Anything
   title: Click To Cart
 sections:
   - background_style: style1
