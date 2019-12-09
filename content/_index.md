@@ -39,21 +39,20 @@ sections:
     spotlights:
       - home_img_path: /images/fresh-collection.png
         text: >-
-          ![]()
-
-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          New collection is provided here which is not provided not local
+          stores. It is more according to the trend then others.so, wear
+          according to fashion.
         title: |-
           Magna primis lobortis
           sed ullamcorper
       - home_img_path: images/pic02.jpg
         text: >-
+          ![](/images/fast-delivery.jpg)
+
+
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Tortor dolore feugiat
-          elementum magna
+        title: aaa
       - home_img_path: images/pic03.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
