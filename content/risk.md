@@ -143,6 +143,9 @@ subtitle: >-
   confinements on sites. We have to adhere to rules of the administration in any
   condition
 background_style: style5
+menu:
+  main:
+    weight: 4
 layout: page
 ---
 
