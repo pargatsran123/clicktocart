@@ -33,9 +33,7 @@ sections:
 
       fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
       ullamcorper.  
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+    title: We are providing all necessary things on just on click.
     type: icons
   - background_style: style2
     component: spotlights.html
