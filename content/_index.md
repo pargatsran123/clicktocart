@@ -28,11 +28,8 @@ sections:
         title: Dolor
     section_id: one
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+      we are going to provide all A to Z things on our online shop. we are
+      available 24 hours for our service.
     title: We are providing all necessary things on just on click.
     type: icons
   - background_style: style2
