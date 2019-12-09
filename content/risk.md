@@ -1,13 +1,13 @@
 ---
 title: Risk
 subtitle: >-
-  ![](/images/market-risk-with-related-tags-and-terms.jpg)
-
-
-  ![](/images/market-risk-with-related-tags-and-terms.jpg)
+  ![](/images/risk_measurement_400_clr_5483.png)
 
 
   # **1.Market Risk:**
+
+
+  ![](/images/mrisknew.jpg)
 
    Now a day's different sorts of internet shopping destinations are existing in the market. Some of
 
@@ -42,10 +42,11 @@ subtitle: >-
   genuine hazard for acquirers of online organizations.
 
 
-  ![](/images/market-risk-with-related-tags-and-terms.jpg)
-
 
   # **2. Technology Risk:**
+
+
+  ![](/images/mrisknew.jpg)
 
 
   In nowadays, innovation is expanding step by step new procedures are delivered
@@ -78,7 +79,8 @@ subtitle: >-
 
   **3)Team Risk:**
 
-  ![](/images/market-risk-with-related-tags-and-terms.jpg)
+
+  ![](/images/mrisknew.jpg)
 
 
   While web based business presents far reaching development openings, it
@@ -120,7 +122,7 @@ subtitle: >-
   and preparing them.
 
 
-  # **4) Financial Risk:** 
+  # **4) Financial Risk:**
 
 
   ![](/images/financial.png)
@@ -137,9 +139,7 @@ subtitle: >-
   business.
 
 
-  # **5) Government Risk**: 
-
-
+  # **5) Government Risk**:
 
 
   # To begin online business we need to keep a few principles of the
