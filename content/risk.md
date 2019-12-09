@@ -42,11 +42,10 @@ subtitle: >-
   genuine hazard for acquirers of online organizations.
 
 
-
   # **2. Technology Risk:**
 
 
-  ![](/images/mrisknew.jpg)
+  ![](/images/risk-ahead-sign_lg.jpg)
 
 
   In nowadays, innovation is expanding step by step new procedures are delivered
@@ -80,7 +79,7 @@ subtitle: >-
   **3)Team Risk:**
 
 
-  ![](/images/mrisknew.jpg)
+  ![](/images/team.png)
 
 
   While web based business presents far reaching development openings, it
