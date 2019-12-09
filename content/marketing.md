@@ -5,7 +5,7 @@ background_style: style5
 menu:
   main:
     name: Marketing
-    weight: 1
+    weight: 5
 layout: page
 ---
 
