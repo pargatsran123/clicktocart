@@ -37,14 +37,12 @@ sections:
     component: spotlights.html
     section_id: two
     spotlights:
-      - home_img_path: /images/fresh-collection.png
+      - home_img_path: /images/f22.jpg
         text: >-
           New collection is provided here which is not provided not local
           stores. It is more according to the trend then others.so, wear
           according to fashion.
-        title: |-
-          Magna primis lobortis
-          sed ullamcorper
+        title: Use Fresh
       - home_img_path: images/pic02.jpg
         text: >-
           ![](/images/fast-delivery.jpg)
