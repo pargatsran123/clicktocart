@@ -1,6 +1,8 @@
 ---
 title: Strategies
 subtitle: |-
+  ![](/images/strategies-logo-web.jpg)
+
   Better quality
 
   Good relationship with customers 
