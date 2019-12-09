@@ -1,6 +1,11 @@
 ---
 title: Vision
-subtitle: "\r\n\n“ To create world’s most reliable and friction-less commerce ecosystem where people can come and buy anything according to choice and affordability”"
+subtitle: >-
+  ![](/images/vision.jpg)
+
+
+  “ To create world’s most reliable and friction-less commerce ecosystem where
+  people can come and buy anything according to choice and affordability”
 background_style: style5
 menu:
   main:
