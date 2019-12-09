@@ -4,6 +4,9 @@ subtitle: >-
   ![](/images/market-risk-with-related-tags-and-terms.jpg)
 
 
+  ![](/images/market-risk-with-related-tags-and-terms.jpg)
+
+
   **1.Market Risk:**
 
    Now a day's different sorts of internet shopping destinations are existing in the market. Some of
@@ -40,7 +43,6 @@ subtitle: >-
 
 
   ![](/images/market-risk-with-related-tags-and-terms.jpg)
-
 
 
   **2. Technology Risk:**
@@ -124,9 +126,7 @@ subtitle: >-
   ![](/images/market-risk-with-related-tags-and-terms.jpg)
 
 
-
   Financial dangers for my endeavor is a result of expanding rivalry, benefit
-
 
 
   potential vulnerability, income development vulnerability, theoretical
@@ -142,7 +142,6 @@ subtitle: >-
 
 
   ![](/images/market-risk-with-related-tags-and-terms.jpg)
-
 
 
   administration like as, tax assessment, shopper insurance, publicizing,
