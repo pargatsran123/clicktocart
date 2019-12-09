@@ -43,12 +43,12 @@ sections:
           stores. It is more according to the trend then others.so, wear
           according to fashion.
         title: Use Fresh
-      - home_img_path: /images/best-22.jpg
+      - home_img_path: /images/best-66.png
         text: >-
           If you want to use Best Quality product go inside and choose anything
           all is best.
         title: Best Quality
-      - home_img_path: /images/24-22.jpg
+      - home_img_path: /images/24-7.jpg
         text: We are here for you anytime.We are happy to give you 24 hours service.
         title: ' 24 hours Avaliable'
     title: Spotlights Section
