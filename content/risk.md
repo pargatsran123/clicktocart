@@ -7,7 +7,7 @@ subtitle: >-
   ![](/images/market-risk-with-related-tags-and-terms.jpg)
 
 
-  **1.Market Risk:**
+  # **1.Market Risk:**
 
    Now a day's different sorts of internet shopping destinations are existing in the market. Some of
 
@@ -45,7 +45,7 @@ subtitle: >-
   ![](/images/market-risk-with-related-tags-and-terms.jpg)
 
 
-  **2. Technology Risk:**
+  # **2. Technology Risk:**
 
 
   In nowadays, innovation is expanding step by step new procedures are delivered
@@ -120,7 +120,7 @@ subtitle: >-
   and preparing them.
 
 
-  **4) Financial Risk:** 
+  # **4) Financial Risk:** 
 
 
   ![](/images/financial.png)
@@ -137,8 +137,12 @@ subtitle: >-
   business.
 
 
-  **5) Government Risk**: To begin online business we need to keep a few
-  principles of the
+  # **5) Government Risk**: 
+
+
+
+
+  # To begin online business we need to keep a few principles of the
 
 
   ![](/images/gov.jpg)
