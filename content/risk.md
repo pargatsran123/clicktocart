@@ -123,7 +123,7 @@ subtitle: >-
   **4) Financial Risk:** 
 
 
-  ![](/images/market-risk-with-related-tags-and-terms.jpg)
+  ![](/images/financial.png)
 
 
   Financial dangers for my endeavor is a result of expanding rivalry, benefit
@@ -141,7 +141,7 @@ subtitle: >-
   principles of the
 
 
-  ![](/images/market-risk-with-related-tags-and-terms.jpg)
+  ![](/images/gov.jpg)
 
 
   administration like as, tax assessment, shopper insurance, publicizing,
