@@ -140,12 +140,10 @@ subtitle: >-
 
   # **5) Government Risk**:
 
-
-  # To begin online business we need to keep a few principles of the
-
-
   ![](/images/gov.jpg)
 
+
+  # To begin online business we need to keep a few principles of the
 
   administration like as, tax assessment, shopper insurance, publicizing,
   bringing in or sending out,
