@@ -11,10 +11,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  subtitle: Come To Shop Anything
   title: Click To Cart
 sections:
   - background_style: style1
